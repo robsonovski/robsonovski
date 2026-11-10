@@ -15,8 +15,9 @@ Inżynier z praktycznym doświadczeniem w automatyzacji obiegu danych, integracj
 
 ---
 
-### 📂 Wyróżnione repozytoria:
-* 🚀 **[it-automations-and-scripts](https://github.com/robsonovski/it-automations-and-scripts):** Autonomiczny provisioning instancji chmurowych w Pythonie (OCI SDK) oraz wzorcowy potok obsługi błędów i alertowania w n8n ze zrzutami ekranu architektury.
+### 📂 Wyróżnione projekty i portfolio:
+* 🌐 **[Oficjalne Portfolio Online (robsonovski.github.io)](https://robsonovski.github.io):** Nowoczesna strona portfolio z case studies wdrożeń, metrykami, architekturą potoków i procedurami SOP.
+* 🚀 **[it-automations-and-scripts](https://github.com/robsonovski/it-automations-and-scripts):** Autonomiczny provisioning instancji chmurowych w Pythonie (OCI SDK) oraz wzorcowy potok obsługi błędów i alertowania w n8n.
 
 ---
 
